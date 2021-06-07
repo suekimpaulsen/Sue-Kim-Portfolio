@@ -19,3 +19,7 @@ body {
     max-width: 35%;
     height: auto;
 }
+.card {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
